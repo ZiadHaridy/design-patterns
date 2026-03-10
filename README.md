@@ -30,6 +30,18 @@ pattern-name/
 | ----------------------- | ------------------------------------ | ------ |
 | [Singleton](singleton/) | Ensure a class has only one instance | Done   |
 
+### Structural Patterns
+
+| Pattern                 | Description                                        | Status |
+| ----------------------- | -------------------------------------------------- | ------ |
+| [Decorator](decorator/) | Attach additional responsibilities dynamically     | Done   |
+
+### Behavioral Patterns
+
+| Pattern               | Description                                           | Status |
+| --------------------- | ----------------------------------------------------- | ------ |
+| [Strategy](strategy/) | Define a family of algorithms and make them swappable | Done   |
+
 > More patterns will be added throughout the course.
 
 ## How to Study
