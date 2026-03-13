@@ -40,7 +40,8 @@ pattern-name/
 
 | Pattern               | Description                                           | Status |
 | --------------------- | ----------------------------------------------------- | ------ |
-| [Strategy](strategy/) | Define a family of algorithms and make them swappable | Done   |
+| [Strategy](strategy/)                                   | Define a family of algorithms and make them swappable   | Done   |
+| [Chain of Responsibility](chain-of-responsibility/)     | Pass request along a chain until one object handles it  | Done   |
 
 > More patterns will be added throughout the course.
 
