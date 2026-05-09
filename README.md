@@ -26,22 +26,29 @@ pattern-name/
 
 ### Creational Patterns
 
-| Pattern                 | Description                          | Status |
-| ----------------------- | ------------------------------------ | ------ |
-| [Singleton](singleton/) | Ensure a class has only one instance | Done   |
+| Pattern                                | Description                                                       | Status |
+| -------------------------------------- | ----------------------------------------------------------------- | ------ |
+| [Singleton](singleton/)                | Ensure a class has only one instance                              | Done   |
+| [Factory Method](factory-method/)      | Defer instantiation of one product to subclasses                  | Done   |
+| [Abstract Factory](abstract-factory/)  | Create families of related products without naming concrete types | Done   |
 
 ### Structural Patterns
 
-| Pattern                 | Description                                        | Status |
-| ----------------------- | -------------------------------------------------- | ------ |
-| [Decorator](decorator/) | Attach additional responsibilities dynamically     | Done   |
+| Pattern                   | Description                                              | Status |
+| ------------------------- | -------------------------------------------------------- | ------ |
+| [Decorator](decorator/)   | Attach additional responsibilities dynamically           | Done   |
+| [Composite](composite/)   | Compose objects into trees and treat them uniformly      | Done   |
+| [Bridge](bridge/)         | Decouple abstraction from implementation                 | Done   |
 
 ### Behavioral Patterns
 
-| Pattern               | Description                                           | Status |
-| --------------------- | ----------------------------------------------------- | ------ |
-| [Strategy](strategy/)                                   | Define a family of algorithms and make them swappable   | Done   |
-| [Chain of Responsibility](chain-of-responsibility/)     | Pass request along a chain until one object handles it  | Done   |
+| Pattern                                             | Description                                               | Status |
+| --------------------------------------------------- | --------------------------------------------------------- | ------ |
+| [Strategy](strategy/)                               | Define a family of algorithms and make them swappable     | Done   |
+| [Chain of Responsibility](chain-of-responsibility/) | Pass request along a chain until one object handles it    | Done   |
+| [Observer](observer/)                               | Notify many objects when one object's state changes       | Done   |
+| [Command](command/)                                 | Encapsulate a request as an object for undo/queue/log     | Done   |
+| [State](state/)                                     | Alter an object's behavior when its internal state changes | Done  |
 
 > More patterns will be added throughout the course.
 
